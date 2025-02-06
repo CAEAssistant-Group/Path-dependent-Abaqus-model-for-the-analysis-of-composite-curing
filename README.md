@@ -1,0 +1,1 @@
+# Path-dependent-Abaqus-model-for-the-analysis-of-composite-curing
