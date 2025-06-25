@@ -11,3 +11,5 @@ Since the Abaqus viscoelastic model is an advanced topic, some users may prefer 
 This repository contains the full .inp file along with some portions of the Fortran subroutines used in the Abaqus path-dependent curing model. The included subroutines are DISP, USDFLD, UMAT, HETVAL, and UEXPAN. For a more comprehensive understanding of these models, including theoretical insights and the complete Fortran codes for the Abaqus path-dependent curing model, refer to our full package. The access link is available in the "About" section on the right.
 
 ![image](https://github.com/user-attachments/assets/fbcd7b3d-0c9e-49b0-b96e-df8c0da63ee4)
+
+**ℹ️ This is just a demo to show how the code is structured. For the full, working version, please visit our website.**
