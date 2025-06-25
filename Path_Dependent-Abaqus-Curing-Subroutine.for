@@ -1,4 +1,4 @@
-
+C      #This is just a demo to show how the code is structured. For the full, working version, please visit our website.#
 C      ######################################################################
 C      #################      CAE Assistant Company          ################
 C      ##############         www CAEassistant com              #############
